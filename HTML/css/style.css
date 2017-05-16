@@ -1,0 +1,35 @@
+body {
+	font: 300 112.5%/1.5em "Helvetica", "Arial", sans-serif;
+	margin: 3em 3em 6em;
+	padding: 0;
+}
+article {
+	margin: auto;
+	width: 32em;
+}
+h1 {
+	font-size: 2em;
+	line-height: 1em;
+	text-align: left;
+	margin: 0.5em 0;
+}
+p {
+	margin: 1.5em 0;
+}
+strong, b {
+	font-weight: bold;
+}
+/* unvisited link */
+a:link {
+		color: SlateGray;
+}
+
+/* visited link */
+a:visited {
+		color: DarkSlateBlue;
+}
+
+/* mouse over link */
+a:hover {
+		color: MediumAquamarine;
+}
